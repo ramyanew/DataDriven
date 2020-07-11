@@ -1,0 +1,1 @@
+bmlBtn=//button[contains(text(),'Bank Manager Login')]

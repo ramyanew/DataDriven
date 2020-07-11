@@ -1,0 +1,16 @@
+package com.iggroup.base;
+
+import org.openqa.selenium.By;
+import org.testng.annotations.Test;
+
+public class LoginClass extends TestBase{
+	
+	@Test
+	public void loginAsBankManager() throws InterruptedException
+	{
+		driver.findElement(By.xpath(OR.getProperty("bmlBtn"))).click();
+		Thread.sleep(3000);
+		
+	}
+
+}

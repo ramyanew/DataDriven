@@ -1,0 +1,18 @@
+package com.iggroup.rough;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.util.Properties;
+
+public class TestProperties {
+
+	public static void main(String[] args) throws FileNotFoundException {
+		// TODO Auto-generated method stub
+		
+		Properties config= new Properties();
+		FileInputStream fis= new FileInputStream("E:\\Eclipse\\DataDriven-RA\\DataDrivenFramework\\src\\test\\resources\\properties\\Config.properties");
+		System.out.println(System.getProperty("user.dir"));
+
+	}
+
+}

@@ -1,0 +1,23 @@
+package com.iggroup.base;
+
+import org.testng.annotations.AfterSuite;
+import org.testng.annotations.BeforeSuite;
+
+public class TestBase {
+	
+	public static Webdriver driver;
+	
+	
+	@BeforeSuite
+	public void setUp()
+	{
+		
+	}
+	
+	@AfterSuite
+	public void tearDown()
+	{
+		
+	}
+
+}

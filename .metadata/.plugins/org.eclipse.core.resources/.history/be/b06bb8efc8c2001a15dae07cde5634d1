@@ -1,0 +1,16 @@
+package com.iggroup.base;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import com.iggroup.base.TestBase;
+
+public class AddCustomerTest extends TestBase{
+	@Test
+	public void addCustomer()
+	{
+		Assert.fail("Failing the test case");
+	}
+	
+
+}

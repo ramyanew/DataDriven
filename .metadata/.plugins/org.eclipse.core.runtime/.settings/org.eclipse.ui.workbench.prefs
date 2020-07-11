@@ -1,0 +1,9 @@
+//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTorg.eclipse.debug.ui.presentation\tTorg.eclipse.egit.ui.GitTheme\tTorg.eclipse.jdt.ui.presentation\tTorg.eclipse.wst.sse.ui\tTorg.eclipse.mylyn.tasks.ui.presentation\tTorg.eclipse.compare.contentmergeviewer.TextMergeViewer\tTorg.eclipse.ui.presentation.default\tTorg.eclipse.mylyn.wikitext.ui.presentation
+ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.jface.dialogfont
+PLUGINS_NOT_ACTIVATED_ON_STARTUP=;org.eclipse.m2e.discovery;
+eclipse.preferences.version=1
+org.eclipse.egit.ui.CommitGraphHighlightFont=1|Segoe UI|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI;
+org.eclipse.egit.ui.CommitGraphNormalFont=1|Segoe UI|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI;
+org.eclipse.jdt.ui.javadocfont=1|Segoe UI|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI;
+org.eclipse.jface.dialogfont=1|Segoe UI|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI;

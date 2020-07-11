@@ -1,0 +1,4 @@
+bmlBtn=//button[contains(text(),'Bank Manager Login')]
+
+#AddCustomer
+addCustomer=//button[contains(text(),'Add Customer1')]

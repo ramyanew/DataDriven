@@ -1,0 +1,20 @@
+package com.iggroup.base;
+
+import static org.testng.Assert.assertTrue;
+
+import org.openqa.selenium.By;
+import org.testng.annotations.Test;
+
+public class LoginClass extends TestBase{
+	
+	@Test
+	public void loginAsBankManager() throws InterruptedException
+	{
+		driver.findElement(By.xpath(OR.getProperty("bmlBtn"))).click();
+		Thread.sleep(3000);
+		
+		assert.assertTrue(isElementPresent(By.xpath(OR.getProperty("//button[contains(text(),'Add Customer')]")),"Not Proper Login");
+		
+	}
+
+}
